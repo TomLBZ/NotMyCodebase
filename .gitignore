@@ -45,6 +45,9 @@ coverage.xml
 .*
 !.gitignore
 !.github/
+!.gitattributes
+!.editorconfig
+!.env.example
 
 # Node modules (if any JavaScript projects)
 node_modules/
@@ -55,7 +58,6 @@ logs/
 
 # OS files
 Thumbs.db
-.DS_Store
 
 # Jupyter Notebook
 .ipynb_checkpoints/
