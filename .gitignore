@@ -1,9 +1,9 @@
-# Exclude specific directories under any project directory
-*/architect/
-*/planner/
-*/implementer/
-*/user/
-*/evaluator/
+# # Exclude specific directories under any project directory
+# */architect/
+# */planner/
+# */implementer/
+# */user/
+# */evaluator/
 
 # Python cache files
 __pycache__/
