@@ -3,6 +3,7 @@
 */planner/
 */implementer/
 */user/
+*/evaluator/
 
 # Python cache files
 __pycache__/

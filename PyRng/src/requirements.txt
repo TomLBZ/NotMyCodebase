@@ -1,0 +1,8 @@
+# PyRng Production Dependencies
+# Required packages for running PyRng
+
+# Core numerical computing and distributions
+numpy>=1.24.0,<2.0.0
+
+# Configuration validation
+pydantic>=2.0.0,<3.0.0
